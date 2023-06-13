@@ -11,3 +11,10 @@ Always interested in the world of data, I have acquired extensive knowledge and 
 
 Feel free to explore my projects and contributions. I am excited to collaborate, learn, and contribute to the world of data and computer vision!
 
+## Computer Vision:
+Keying
+Drowsiness detection
+
+## Data Science:
+
+
